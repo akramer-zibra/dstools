@@ -10,8 +10,8 @@
   "license": "MIT",
   "dependencies": {
     "@runkit/value-viewer": "^1.0.0",
-    "axios": "^0.17.1",
-    "csv": "^2.0.0",
+    "axios": "0.19.2",
+    "csv": "^5.3.1",
     "fs-extra": "^5.0.0",
     "jstat": "^1.7.1",
     "stopwords": "0.0.9",
@@ -19,7 +19,7 @@
     "xregexp": "^4.0.0"
   },
   "devDependencies": {
-    "tap": "^11.1.0"
+    "tap": "^14.10.6"
   },
   "directories": {
     "test": "test"
